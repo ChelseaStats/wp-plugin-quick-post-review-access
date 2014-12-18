@@ -4,7 +4,7 @@ Donate link: http://www.thecellarroom.net/plugins/about.php
 License: GPL
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.0.1
-Tested up to: 3.5.1
+Tested up to: 4.1
 Stable tag: 1.3.4
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
 
